@@ -1,0 +1,19 @@
+{
+  "name": "fit-interlock",
+  "version": "1.0.0",
+  "description": "interlocking with malls",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thh-wmp/fit-interlock.git"
+  },
+  "author": "thh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thh-wmp/fit-interlock/issues"
+  },
+  "homepage": "https://github.com/thh-wmp/fit-interlock#readme"
+}
